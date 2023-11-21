@@ -160,3 +160,5 @@ cython_debug/
 .idea/
 Lab_3/beer_reviews.csv
 Lab_4/MINDsmall_train
+Lab_5/ml-latest-small
+Lab_5/groups.csv
